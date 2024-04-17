@@ -1,14 +1,14 @@
-# E-Learning-Platform.github.io i.e ADHYAN
+# E-Learning-Platform.github.io i.e., ADHYAN
 
-ADHYAN is an innovative solution designed to address the challenges faced by learners in underprivileged communities, aiming to make education more accessible through a comprehensive and holistic approach.
+ADHYAN is an innovative solution designed to address the challenges learners face in underprivileged communities, aiming to make education more accessible through a comprehensive and holistic approach.
 
- <- WEBSITE 
+ https://s-tuti.github.io/E-Learning-Platform.github.io/ <- WEBSITE 
 
 
 *Key Features:*
 
 1. *Mobile Learning App:*
-   - User-friendly app providing access to diverse educational resources.
+   - A user-friendly app that provides access to diverse educational resources.
    - Compatible with low-end smartphones and available in multiple languages.
 
 2. *Offline Mode:*
@@ -16,7 +16,7 @@ ADHYAN is an innovative solution designed to address the challenges faced by lea
 
 3. *Community Learning Centers:*
    - Establishes physical hubs with computer and internet facilities in underprivileged areas.
-   - Serves as conducive learning environments for students lacking access at home.
+   - Serves as a conducive learning environment for students needing access at home.
 
 4. *Adaptive Learning Technology:*
    - Implements adaptive learning algorithms for personalized learning experiences.
@@ -44,7 +44,7 @@ ADHYAN is an innovative solution designed to address the challenges faced by lea
 
 - *Collaboration with Universities:*
   - Partners with universities to promote the program as a community service opportunity.
-  - Offers internship opportunities and encourages research aligned with the project.
+  - Offers internship opportunities and encourages research that is aligned with the project.
 
 - *Entrepreneurial Ecosystem Integration:*
   - Integrates a business-friendly component with partnerships for real-world projects and internships.
