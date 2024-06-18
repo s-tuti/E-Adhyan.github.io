@@ -2,9 +2,6 @@
 
 ADHYAN is an innovative solution designed to address the challenges learners face in underprivileged communities, aiming to make education more accessible through a comprehensive and holistic approach.
 
- https://s-tuti.github.io/E-Learning-Platform.github.io/ <- WEBSITE 
-
-
 *Key Features:*
 
 1. *Mobile Learning App:*
